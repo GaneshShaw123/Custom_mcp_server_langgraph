@@ -1,8 +1,6 @@
 
 # Build Custom MCP Server with LamgGraph and Streamlit
 
-## Video Tutorial (Hindi):  https://youtu.be/AlmdrYSDemI
-
 ### Environment setup: 
 	pip install python-dotenv langchain-mcp-adapters langgraph "langchain[openai]" mcp streamlit
 	
